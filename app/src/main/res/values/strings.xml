@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ProyectoIntegradoAGG</string>
+    <string name="acceder_como_invitado">Acceder como invitado</string>
+    <string name="registrar">Registrar</string>
+    <string name="acceder">Acceder</string>
+    <string name="correo">Correo</string>
+    <string name="constrase_a">Constraseña</string>
+    <string name="salir_de_la_app">salir de la app</string>
+    <string name="salir_del_navegador">salir del navegador</string>
+    <string name="text_boton_mapa">Busca tus destinos en el mapa personalizado de AG</string>
+    <string name="text_boton_navegador">Explora tus páginas favoritas en el navegador AG</string>
+    <string name="adrian_maps">Adrian MAPS</string>
+    <string name="navegador_ag">Navegador AG</string>
+    <string name="base_de_datos">Base de datos</string>
+    <string name="logout">Logout</string>
+    <string name="text_invitado">Usuario Invitado, regístrate para más funciones</string>
+    <string name="volver">Volver</string>
+    <string name="borrar">Borrar</string>
+    <string name="update">Update</string>
+    <string name="origen">Origen:</string>
+    <string name="destino">Destino:</string>
+    <string name="distancia_km">Distancia(KM):</string>
+    <string name="buscador_de_im_genes_ag">Buscador de Imágenes AG</string>
+    <string name="text_buscaimagenes">No tienes acceso a las características principales, pero puedes buscar imágenes en el buscador</string>
+    <string name="textview">TextView</string>
+</resources>
