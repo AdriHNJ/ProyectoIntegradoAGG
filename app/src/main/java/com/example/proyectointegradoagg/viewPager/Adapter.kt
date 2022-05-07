@@ -1,16 +1,29 @@
 package com.example.proyectointegradoagg.viewPager
 
 import android.content.Context
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
+import androidx.core.content.ContextCompat
+import androidx.core.content.ContextCompat.startActivity
+
 import androidx.viewpager.widget.PagerAdapter
+import com.example.proyectointegradoagg.MainActivity
+import com.example.proyectointegradoagg.MenuActivity
+
 import com.example.proyectointegradoagg.R
+import com.example.proyectointegradoagg.lectorQR.ScannerActivity
+import com.example.proyectointegradoagg.maps.MapsActivity
+
+
 import kotlinx.android.synthetic.main.card_item.view.*
 
 
+
 class Adapter (private val context: Context, private val myModelArrayList: ArrayList<MyModel>): PagerAdapter() {
+
     override fun getCount(): Int {
         return myModelArrayList.size
     }
@@ -27,6 +40,7 @@ class Adapter (private val context: Context, private val myModelArrayList: Array
         val descripcion = model.descripcion
         val imagen = model.image
 
+
         view.imagenIv.setImageResource(imagen)
         view.titleTv.text = titulo
         view.descripcionTv.text = descripcion
@@ -34,6 +48,8 @@ class Adapter (private val context: Context, private val myModelArrayList: Array
         view.setOnClickListener{
             if (titulo=="Lector QR"){
                 Toast.makeText(context, "Abriendo Lector QR...", Toast.LENGTH_LONG).show()
+                val i = Intent(view.context, ScannerActivity::class.java)
+                context.startActivity(i)
             } else
             if (titulo=="Juegos"){
                 Toast.makeText(context, "Abriendo Juegos...", Toast.LENGTH_LONG).show()
@@ -43,6 +59,11 @@ class Adapter (private val context: Context, private val myModelArrayList: Array
             } else
             if (titulo=="Reproductor Videos"){
                 Toast.makeText(context, "Abriendo Reproductor Videos...", Toast.LENGTH_LONG).show()
+            } else
+            if (titulo=="Mapas"){
+                Toast.makeText(context, "Abriendo Mapas...", Toast.LENGTH_LONG).show()
+                val i = Intent(view.context, MapsActivity::class.java)
+                context.startActivity(i)
             }
 
         }

@@ -59,6 +59,7 @@ class MenuActivity : AppCompatActivity() {
         myModelList.add(MyModel("Lista de la compra", "Crea tu lista de la compra, y no te olvides de nada!", R.drawable.namecard))
         myModelList.add(MyModel("Juegos", "¿Te aburres? Abre los juegos y pasa un buen rato", R.drawable.poster))
         myModelList.add(MyModel("Reproductor Videos", "Abre el reproductor y reproduce tus vídeos favoritos", R.drawable.sticker))
+        myModelList.add(MyModel("Mapas", "Planea tus viajes en este mapa", R.drawable.brochure))
 
         adapter = Adapter(this, myModelList)
 

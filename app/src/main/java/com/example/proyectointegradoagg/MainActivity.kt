@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.proyectointegradoagg.databinding.ActivityMainBinding
+import com.example.proyectointegradoagg.maps.MapsActivity
 
 class MainActivity : AppCompatActivity() {
     lateinit var binding: ActivityMainBinding
