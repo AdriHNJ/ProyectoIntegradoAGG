@@ -14,6 +14,7 @@ import com.example.proyectointegradoagg.MainActivity
 import com.example.proyectointegradoagg.MenuActivity
 
 import com.example.proyectointegradoagg.R
+import com.example.proyectointegradoagg.buscadorImagenes.PixabayActivity
 import com.example.proyectointegradoagg.lectorQR.ScannerActivity
 import com.example.proyectointegradoagg.maps.MapsActivity
 
@@ -65,6 +66,12 @@ class Adapter (private val context: Context, private val myModelArrayList: Array
                 val i = Intent(view.context, MapsActivity::class.java)
                 context.startActivity(i)
             }
+            if (titulo=="Buscador de Imagenes"){
+                Toast.makeText(context, "Abriendo $titulo...", Toast.LENGTH_LONG).show()
+                val i = Intent(view.context, PixabayActivity::class.java)
+                context.startActivity(i)
+            }
+
 
         }
 

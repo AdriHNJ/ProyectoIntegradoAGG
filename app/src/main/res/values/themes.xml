@@ -16,4 +16,8 @@
         <item name="android:statusBarColor" tools:ignore="DuplicateDefinition">@android:color/transparent</item>
         <item name="android:windowTranslucentStatus">true</item>
     </style>
+
+    <style name="SplashThemes" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_screen</item>
+    </style>
 </resources>

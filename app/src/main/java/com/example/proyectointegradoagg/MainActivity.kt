@@ -3,6 +3,7 @@ package com.example.proyectointegradoagg
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.proyectointegradoagg.buscadorImagenes.PixabayActivity
 import com.example.proyectointegradoagg.databinding.ActivityMainBinding
 import com.example.proyectointegradoagg.maps.MapsActivity
 

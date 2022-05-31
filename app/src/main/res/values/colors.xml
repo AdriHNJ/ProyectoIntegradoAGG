@@ -8,4 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="backgroundMenu">#F1E042</color>
+    <color name="splashScreenColor">#F4D474</color>
+    <color name="gris">#CAD5E2</color>
 </resources>

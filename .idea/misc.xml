@@ -14,9 +14,15 @@
         <entry key="..\:/Documentos/GitHub/ProyectoIntegradoAGG/app/src/main/res/layout/shape_rect.xml" value="0.20416666666666666" />
         <entry key="..\:/Documentos/GitHub/ProyectoIntegradoAGG/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
         <entry key="..\:/Documentos/GitHub/ProyectoIntegradoAGG/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1125" />
+        <entry key="..\:/Users/AdriHNJ/Documents/GitHub/ProyectoIntegradoAGG/app/src/main/res/drawable/background_screen.xml" value="0.25" />
         <entry key="..\:/Users/AdriHNJ/Documents/GitHub/ProyectoIntegradoAGG/app/src/main/res/layout/activity_maps.xml" value="0.22" />
         <entry key="..\:/Users/AdriHNJ/Documents/GitHub/ProyectoIntegradoAGG/app/src/main/res/layout/activity_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/AdriHNJ/Documents/GitHub/ProyectoIntegradoAGG/app/src/main/res/layout/activity_pixabay.xml" value="0.2" />
+        <entry key="..\:/Users/AdriHNJ/Documents/GitHub/ProyectoIntegradoAGG/app/src/main/res/layout/activity_pixabay_adapter.xml" value="0.35885416666666664" />
+        <entry key="..\:/Users/AdriHNJ/Documents/GitHub/ProyectoIntegradoAGG/app/src/main/res/layout/activity_reproductor_video.xml" value="0.25" />
         <entry key="..\:/Users/AdriHNJ/Documents/GitHub/ProyectoIntegradoAGG/app/src/main/res/layout/activity_scanner.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/AdriHNJ/Documents/GitHub/ProyectoIntegradoAGG/app/src/main/res/layout/reproductor_card_view.xml" value="0.22" />
+        <entry key="..\:/Users/AdriHNJ/Documents/GitHub/ProyectoIntegradoAGG/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21614583333333334" />
       </map>
     </option>
   </component>

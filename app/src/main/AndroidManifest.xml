@@ -4,6 +4,7 @@
     package="com.example.proyectointegradoagg">
 
     <uses-sdk tools:overrideLibrary="com.google.zxing.client.android" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -12,9 +13,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProyectoIntegradoAGG">
         <activity
+            android:name=".reproductorVideo.ReproductorVideo"
+            android:exported="false" />
+        <activity
+            android:name=".splashScreen.SplashActivity"
+            android:exported="true"
+            android:theme="@style/SplashThemes">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name=".lectorQR.ScannerActivity"
             android:exported="false" />
-
         <activity
             android:name="com.journeyapps.barcodescanner.CaptureActivity"
             android:screenOrientation="portrait"
@@ -22,20 +35,18 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="@string/google_maps_key"></meta-data>
+            android:value="@string/google_maps_key" />
 
         <activity
             android:name=".MenuActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".buscadorImagenes.PixabayActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+            android:exported="true"></activity>
         <activity
             android:name=".maps.MapsActivity"
             android:exported="false"
