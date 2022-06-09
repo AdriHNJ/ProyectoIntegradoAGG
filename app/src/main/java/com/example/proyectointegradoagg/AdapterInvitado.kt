@@ -1,27 +1,23 @@
-package com.example.proyectointegradoagg.viewPager
+package com.example.proyectointegradoagg
 
 import android.content.Context
 import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Toast
 
 import androidx.viewpager.widget.PagerAdapter
+import com.example.proyectointegradoagg.juegos.MenuJuegosActivity
+import com.example.proyectointegradoagg.listaCompra.BaseDatosActivity
 
-import com.example.proyectointegradoagg.R
-import com.example.proyectointegradoagg.buscadorImagenes.PixabayActivity
-import com.example.proyectointegradoagg.lectorQR.ScannerActivity
-import com.example.proyectointegradoagg.maps.MapsActivity
-import com.example.proyectointegradoagg.reproductorVideo.PlayerActivity
-import com.example.proyectointegradoagg.reproductorVideo.ReproductorVideoActivity
+import com.example.proyectointegradoagg.viewPager.MyModel
 
 
 import kotlinx.android.synthetic.main.card_item.view.*
 
 
 
-class Adapter(private val context: Context, private val myModelArrayList: ArrayList<MyModel>): PagerAdapter() {
+class AdapterInvitado(private val context: Context, private val myModelArrayList: ArrayList<MyModel>): PagerAdapter() {
 
     override fun getCount(): Int {
         return myModelArrayList.size
@@ -45,26 +41,14 @@ class Adapter(private val context: Context, private val myModelArrayList: ArrayL
         view.descripcionTv.text = descripcion
 
         view.setOnClickListener{
-            if (titulo=="Lector QR"){
-                val i = Intent(view.context, ScannerActivity::class.java)
-                context.startActivity(i)
-            } else
-            if (titulo=="Juegos"){
-            } else
-            if (titulo=="Reproductor Musica"){
-                val i = Intent(view.context, ReproductorVideoActivity::class.java)
-                context.startActivity(i)
-            } else
-            if (titulo=="Mapas"){
-                val i = Intent(view.context, MapsActivity::class.java)
+            if (titulo=="Juegos") {
+                val i = Intent(view.context, MenuJuegosActivity::class.java)
                 context.startActivity(i)
             }
-            if (titulo=="Buscador de Imagenes"){
-                val i = Intent(view.context, PixabayActivity::class.java)
+            if (titulo=="Lista de la compra") {
+                val i = Intent(view.context, BaseDatosActivity::class.java)
                 context.startActivity(i)
             }
-
-
         }
 
         container.addView(view, position)

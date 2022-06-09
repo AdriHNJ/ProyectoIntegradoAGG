@@ -5,15 +5,39 @@
 
     <uses-sdk tools:overrideLibrary="com.google.zxing.client.android" />
 
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
     <application
+        android:name=".listaCompra.Aplicacion"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ProyectoIntegradoAGG">
         <activity
-            android:name=".reproductorVideo.ReproductorVideo"
+            android:name=".listaCompra.AddActivity"
+            android:exported="false" />
+        <activity
+            android:name=".listaCompra.BaseDatosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".juegos.ahorcado.AhorcadoJuegoActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".MenuInvitadoActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".juegos.MenuJuegosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".reproductorVideo.PlayerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".reproductorVideo.ReproductorVideoActivity"
             android:exported="false" />
         <activity
             android:name=".splashScreen.SplashActivity"
@@ -25,6 +49,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <service android:name=".reproductorVideo.MusicService" />
+
         <activity
             android:name=".lectorQR.ScannerActivity"
             android:exported="false" />
@@ -32,11 +59,6 @@
             android:name="com.journeyapps.barcodescanner.CaptureActivity"
             android:screenOrientation="portrait"
             tools:replace="screenOrientation" />
-
-        <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="@string/google_maps_key" />
-
         <activity
             android:name=".MenuActivity"
             android:exported="false"
@@ -46,7 +68,12 @@
             android:exported="false" />
         <activity
             android:name=".MainActivity"
-            android:exported="true"></activity>
+            android:exported="true" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
         <activity
             android:name=".maps.MapsActivity"
             android:exported="false"

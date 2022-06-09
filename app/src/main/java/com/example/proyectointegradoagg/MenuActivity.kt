@@ -1,21 +1,25 @@
 package com.example.proyectointegradoagg
 
-import android.app.Activity
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.appcompat.app.ActionBar
 import androidx.viewpager.widget.ViewPager
-import androidx.viewpager2.widget.ViewPager2
 import com.example.proyectointegradoagg.databinding.ActivityMenuBinding
 import com.example.proyectointegradoagg.viewPager.Adapter
 import com.example.proyectointegradoagg.viewPager.MyModel
 import kotlinx.android.synthetic.main.activity_menu.*
 
+enum class Providers{
+    BASIC,
+    GOOGLE,
+    INVITED
+}
 
 class MenuActivity : AppCompatActivity() {
-
+    var email=""
+    var provider=""
+    lateinit var prefs: Prefs
     lateinit var binding: ActivityMenuBinding
-    private lateinit var actionBar: ActionBar
 
     private lateinit var adapter: Adapter
     private lateinit var myModelList: ArrayList<MyModel>
@@ -24,10 +28,10 @@ class MenuActivity : AppCompatActivity() {
         binding = ActivityMenuBinding.inflate(layoutInflater)
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
-
-
-
+        prefs = Prefs(this)
+        guardardatos()
         cargarCards()
+        cogerDatos()
 
         //Añadimos el onpagelistener
         viewPager.addOnPageChangeListener(object : ViewPager.OnPageChangeListener{
@@ -50,6 +54,21 @@ class MenuActivity : AppCompatActivity() {
         })
     }
 
+    private fun cogerDatos() {
+        val bundle = intent.extras
+
+        email = bundle?.getString("EMAIL").toString()
+        provider = bundle?.getString("PROVIDER").toString()
+
+        binding.txtEmail.text=email
+        binding.txtProvider.text=provider
+    }
+
+    private fun guardardatos() {
+        prefs.guardarEmail(email)
+        prefs.guardarProvider(provider)
+    }
+
     private fun cargarCards() {
         //iniciamos la lista
         myModelList = ArrayList()
@@ -58,7 +77,7 @@ class MenuActivity : AppCompatActivity() {
         myModelList.add(MyModel("Lector QR", "Lee todos los códigos QR y códigos de barras", R.drawable.brochure))
         myModelList.add(MyModel("Lista de la compra", "Crea tu lista de la compra, y no te olvides de nada!", R.drawable.namecard))
         //myModelList.add(MyModel("Juegos", "¿Te aburres? Abre los juegos y pasa un buen rato", R.drawable.poster))
-        //myModelList.add(MyModel("Reproductor Videos", "Abre el reproductor y reproduce tus vídeos favoritos", R.drawable.sticker))
+        myModelList.add(MyModel("Reproductor Musica", "Abre el reproductor y reproduce tus vídeos favoritos", R.drawable.sticker))
         myModelList.add(MyModel("Mapas", "Planea tus viajes en este mapa", R.drawable.brochure))
         myModelList.add(MyModel("Buscador de Imagenes", "Busca Imagenes", R.drawable.poster))
 
