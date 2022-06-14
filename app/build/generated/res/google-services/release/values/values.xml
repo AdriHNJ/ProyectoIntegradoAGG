@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">156342079770-q3paln2isc7c0la7mco6h5itadurd3tl.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">156342079770</string>
+    <string name="google_api_key" translatable="false">AIzaSyB-R9xeMrBdIjdzTYzic0DM1ss2NkhmFAA</string>
+    <string name="google_app_id" translatable="false">1:156342079770:android:0e85c16cd7e9fee72b5ca3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB-R9xeMrBdIjdzTYzic0DM1ss2NkhmFAA</string>
+    <string name="google_storage_bucket" translatable="false">proyectointegradoagg.appspot.com</string>
+    <string name="project_id" translatable="false">proyectointegradoagg</string>
+</resources>

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_pixabay.xml",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_pixabay.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\music_view.xml",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\music_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\card_item.xml",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\card_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\compra_layout.xml",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\compra_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_menu.xml",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_tictactoejuego.xml",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_tictactoejuego.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add.xml",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_reproductor_musica.xml",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_reproductor_musica.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_menu_invitado.xml",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_menu_invitado.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_scanner.xml",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_game.xml",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_player.xml",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_pixabay_adapter.xml",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_pixabay_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_menu_juegos.xml",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_menu_juegos.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_ahorcado_juego.xml",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_ahorcado_juego.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_base_datos.xml",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_base_datos.xml"
+    }
+]

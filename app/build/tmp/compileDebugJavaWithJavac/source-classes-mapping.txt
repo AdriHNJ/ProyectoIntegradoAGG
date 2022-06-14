@@ -1,0 +1,38 @@
+com/example/proyectointegradoagg/databinding/ActivityAhorcadoJuegoBinding.java
+ com.example.proyectointegradoagg.databinding.ActivityAhorcadoJuegoBinding
+com/example/proyectointegradoagg/databinding/CardItemBinding.java
+ com.example.proyectointegradoagg.databinding.CardItemBinding
+com/example/proyectointegradoagg/databinding/ActivityPlayerBinding.java
+ com.example.proyectointegradoagg.databinding.ActivityPlayerBinding
+com/example/proyectointegradoagg/databinding/ActivityPixabayBinding.java
+ com.example.proyectointegradoagg.databinding.ActivityPixabayBinding
+com/example/proyectointegradoagg/BuildConfig.java
+ com.example.proyectointegradoagg.BuildConfig
+com/example/proyectointegradoagg/databinding/ActivityAddBinding.java
+ com.example.proyectointegradoagg.databinding.ActivityAddBinding
+com/example/proyectointegradoagg/databinding/ActivityPixabayAdapterBinding.java
+ com.example.proyectointegradoagg.databinding.ActivityPixabayAdapterBinding
+com/example/proyectointegradoagg/databinding/ActivityMenuJuegosBinding.java
+ com.example.proyectointegradoagg.databinding.ActivityMenuJuegosBinding
+com/example/proyectointegradoagg/databinding/ActivityGameBinding.java
+ com.example.proyectointegradoagg.databinding.ActivityGameBinding
+com/example/proyectointegradoagg/databinding/ActivityReproductorMusicaBinding.java
+ com.example.proyectointegradoagg.databinding.ActivityReproductorMusicaBinding
+com/example/proyectointegradoagg/databinding/ActivityBaseDatosBinding.java
+ com.example.proyectointegradoagg.databinding.ActivityBaseDatosBinding
+com/example/proyectointegradoagg/databinding/MusicViewBinding.java
+ com.example.proyectointegradoagg.databinding.MusicViewBinding
+com/example/proyectointegradoagg/databinding/ActivityMainBinding.java
+ com.example.proyectointegradoagg.databinding.ActivityMainBinding
+com/example/proyectointegradoagg/databinding/ActivityMenuInvitadoBinding.java
+ com.example.proyectointegradoagg.databinding.ActivityMenuInvitadoBinding
+com/example/proyectointegradoagg/databinding/ActivityTictactoejuegoBinding.java
+ com.example.proyectointegradoagg.databinding.ActivityTictactoejuegoBinding
+com/example/proyectointegradoagg/databinding/ActivityScannerBinding.java
+ com.example.proyectointegradoagg.databinding.ActivityScannerBinding
+com/example/proyectointegradoagg/databinding/CompraLayoutBinding.java
+ com.example.proyectointegradoagg.databinding.CompraLayoutBinding
+com/example/proyectointegradoagg/databinding/ActivityMenuBinding.java
+ com.example.proyectointegradoagg.databinding.ActivityMenuBinding
+com/example/proyectointegradoagg/databinding/ActivityMapsBinding.java
+ com.example.proyectointegradoagg.databinding.ActivityMapsBinding

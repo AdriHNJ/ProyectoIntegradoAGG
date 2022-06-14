@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_music_img.jpg.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\music_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\layout_activity_reproductor_musica.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_reproductor_musica.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_images_img.jpg.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\images_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_game2.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\game2.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_vertical_line.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\vertical_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_play_icon.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\play_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_poster.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable-hdpi\\poster.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\layout_activity_ahorcado_juego.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_ahorcado_juego.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_brochure.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable-hdpi\\brochure.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_logo_app.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\logo_app.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\layout_activity_scanner.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_game5.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\game5.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\layout_activity_add.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_tictactoe_btn.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable-hdpi\\tictactoe_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\layout_compra_layout.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\compra_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\layout_card_item.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\card_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_left_diagonal_line.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\left_diagonal_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_games_img.jpg.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable-hdpi\\games_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\menu_menu_opciones.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\menu\\menu_opciones.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_game1.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\game1.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_sticker.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable-hdpi\\sticker.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_back_icon.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\back_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_lectorqr_img.jpg.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\lectorqr_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_game4.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\game4.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_ahorcado_btn.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable-hdpi\\ahorcado_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_repeat_icon.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\repeat_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_register.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\ic_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\layout_music_view.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\music_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_background_screen.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\background_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_navigate_next_24.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\ic_baseline_navigate_next_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_maps_img.jpg.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\maps_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_game7.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\game7.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_shoppinglist_img.jpg.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable-hdpi\\shoppinglist_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_acceder.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\ic_acceder.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_game0.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\game0.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_game3.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\game3.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_namecard.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable-hdpi\\namecard.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_right_diagonal_line.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\right_diagonal_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_pause_icon.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\pause_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_vpn_key_24.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\ic_baseline_vpn_key_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\layout_activity_pixabay.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_pixabay.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\layout_activity_player.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\layout_activity_base_datos.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_base_datos.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\layout_activity_pixabay_adapter.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_pixabay_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\layout_activity_menu_juegos.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_menu_juegos.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\layout_activity_menu_invitado.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_menu_invitado.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_next_icon.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\next_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_horizontal_line.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\horizontal_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\layout_activity_tictactoejuego.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\layout\\activity_tictactoejuego.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_previous_icon.xml.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\previous_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\merged_res\\release\\drawable_game6.png.flat",
+        "source": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\src\\main\\res\\drawable\\game6.png"
+    }
+]
