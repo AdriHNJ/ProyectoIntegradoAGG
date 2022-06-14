@@ -58,7 +58,7 @@ class AhorcadoJuegoActivity : AppCompatActivity() {
             is GameState.Lost -> showGameLost(gameState.palabrarequerida)
             is GameState.Running -> {
                 wordTextView.text = gameState.underscoreWord
-                lettersUsedTextView.text = "Letters used: ${gameState.letrasUsadas}"
+                lettersUsedTextView.text = "Letras usadas: ${gameState.letrasUsadas}"
                 imageView.setImageDrawable(ContextCompat.getDrawable(this, gameState.drawable))
             }
             is GameState.Won -> showGameWon(gameState.palabrarequerida)
