@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\AdriHNJ\\Documents\\GitHub\\ProyectoIntegradoAGG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\AdriHNJ\\.gradle\\caches\\transforms-3\\cb96c4ca748e404272842399af61a491\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\AdriHNJ\\.gradle\\caches\\transforms-3\\7194eac45de152670e667cab18dfffe8\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\AdriHNJ\\.gradle\\caches\\transforms-3\\d388cafa3a03caa0437c1f3b81fe87c8\\transformed\\appcompat-1.4.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\AdriHNJ\\.gradle\\caches\\transforms-3\\1792bef586a240a9ce1a00cd97684b36\\transformed\\appcompat-1.4.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
