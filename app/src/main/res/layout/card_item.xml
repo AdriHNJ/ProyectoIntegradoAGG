@@ -36,16 +36,17 @@
                 android:textSize="18sp"/>
 
             <TextView
-                android:id="@+id/descripcionTv"
+                android:id="@+id/descripcionTv1"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="70dp"
                 android:layout_marginStart="8dp"
+                android:layout_marginLeft="8dp"
                 android:ellipsize="end"
                 android:maxLines="3"
                 android:minLines="3"
                 android:text="La descripcion"
-                android:textSize="15sp"
-                android:layout_marginLeft="8dp"/>
+                android:textColor="@color/browser_actions_title_color"
+                android:textSize="15sp" />
 
 
         </LinearLayout>

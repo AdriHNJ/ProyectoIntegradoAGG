@@ -5,7 +5,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.proyectointegradoagg.databinding.ActivityMenuJuegosBinding
 import com.example.proyectointegradoagg.juegos.ahorcado.AhorcadoJuegoActivity
-import kotlinx.android.synthetic.main.activity_ahorcado_juego.*
+import com.example.proyectointegradoagg.juegos.tictactoe.GameActivity
+import com.example.proyectointegradoagg.juegos.tictactoe.TictactoeJuegoActivity
 
 class MenuJuegosActivity : AppCompatActivity() {
     lateinit var binding: ActivityMenuJuegosBinding
@@ -17,8 +18,13 @@ class MenuJuegosActivity : AppCompatActivity() {
     }
 
     private fun setListeners() {
-        binding.button.setOnClickListener {
+        binding.ahorcadoBtn.setOnClickListener {
             val i = Intent(this, AhorcadoJuegoActivity::class.java)
+            startActivity(i)
+        }
+
+        binding.tictactoeBtn.setOnClickListener {
+            val i = Intent(this, GameActivity::class.java)
             startActivity(i)
         }
     }

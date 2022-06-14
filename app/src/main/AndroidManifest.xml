@@ -17,6 +17,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProyectoIntegradoAGG">
         <activity
+            android:name=".juegos.tictactoe.TictactoeJuegoActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".juegos.tictactoe.GameActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity
             android:name=".listaCompra.AddActivity"
             android:exported="false" />
         <activity
@@ -32,12 +39,13 @@
             android:theme="@style/Theme.AppCompat.NoActionBar" />
         <activity
             android:name=".juegos.MenuJuegosActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity
+            android:name=".reproductorMusica.PlayerActivity"
             android:exported="false" />
         <activity
-            android:name=".reproductorVideo.PlayerActivity"
-            android:exported="false" />
-        <activity
-            android:name=".reproductorVideo.ReproductorVideoActivity"
+            android:name=".reproductorMusica.ReproductorMusicaActivity"
             android:exported="false" />
         <activity
             android:name=".splashScreen.SplashActivity"
@@ -50,7 +58,7 @@
             </intent-filter>
         </activity>
 
-        <service android:name=".reproductorVideo.MusicService" />
+        <service android:name=".reproductorMusica.MusicService" />
 
         <activity
             android:name=".lectorQR.ScannerActivity"

@@ -1,4 +1,4 @@
-package com.example.proyectointegradoagg.reproductorVideo
+package com.example.proyectointegradoagg.reproductorMusica
 
 import java.util.concurrent.TimeUnit
 

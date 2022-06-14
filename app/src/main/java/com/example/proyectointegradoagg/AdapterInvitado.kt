@@ -38,7 +38,7 @@ class AdapterInvitado(private val context: Context, private val myModelArrayList
 
         view.imagenIv.setImageResource(imagen)
         view.titleTv.text = titulo
-        view.descripcionTv.text = descripcion
+        view.descripcionTv1.text = descripcion
 
         view.setOnClickListener{
             if (titulo=="Juegos") {

@@ -60,9 +60,8 @@ class MenuInvitadoActivity : AppCompatActivity() {
     private fun cargarCards() {
         myModelListInvitado = ArrayList()
 
-        myModelListInvitado.add(MyModel("Hola buenas", "Adios buenas", R.drawable.logo_app))
-        myModelListInvitado.add(MyModel("Lista de la compra", "Adios 2", R.drawable.poster))
-        myModelListInvitado.add(MyModel("Juegos", "Adios 3", R.drawable.brochure))
+        myModelListInvitado.add(MyModel("Lista de la compra", "¡Haz tu lista de la compra y no te olvides de nada!", R.drawable.shoppinglist_img))
+        myModelListInvitado.add(MyModel("Juegos", "Pasa el rato con tus juegos favoritos", R.drawable.games_img))
 
         adapterInvitado = AdapterInvitado(this, myModelListInvitado)
 

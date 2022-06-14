@@ -40,8 +40,7 @@ class MenuActivity : AppCompatActivity() {
                 positionOffset: Float,
                 positionOffsetPixels: Int
             ) {
-                //val title = myModelList[position].titulo
-                //actionBar.title = title
+
             }
 
             override fun onPageSelected(position: Int) {
@@ -74,12 +73,10 @@ class MenuActivity : AppCompatActivity() {
         myModelList = ArrayList()
 
         //añadimos los items
-        myModelList.add(MyModel("Lector QR", "Lee todos los códigos QR y códigos de barras", R.drawable.brochure))
-        myModelList.add(MyModel("Lista de la compra", "Crea tu lista de la compra, y no te olvides de nada!", R.drawable.namecard))
-        //myModelList.add(MyModel("Juegos", "¿Te aburres? Abre los juegos y pasa un buen rato", R.drawable.poster))
-        myModelList.add(MyModel("Reproductor Musica", "Abre el reproductor y reproduce tus vídeos favoritos", R.drawable.sticker))
-        myModelList.add(MyModel("Mapas", "Planea tus viajes en este mapa", R.drawable.brochure))
-        myModelList.add(MyModel("Buscador de Imagenes", "Busca Imagenes", R.drawable.poster))
+        myModelList.add(MyModel("Lector QR", "Lee todos los códigos QR y códigos de barras", R.drawable.lectorqr_img))
+        myModelList.add(MyModel("Reproductor Musica", "Abre el reproductor y reproduce tus vídeos favoritos", R.drawable.music_img))
+        myModelList.add(MyModel("Mapas", "Planea tus viajes en este mapa", R.drawable.maps_img))
+        myModelList.add(MyModel("Buscador de Imagenes", "Busca Imagenes", R.drawable.images_img))
 
         adapter = Adapter(this, myModelList)
 

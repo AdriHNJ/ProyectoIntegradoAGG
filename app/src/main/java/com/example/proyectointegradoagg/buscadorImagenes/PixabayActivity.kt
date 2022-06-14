@@ -79,7 +79,7 @@ class PixabayActivity : AppCompatActivity() {
         binding.recyclerView.adapter=adapter
     }
 
-    //Instanciamos retrofit (Siempre se hace igual)
+    //Instanciamos retrofit
     private fun getRetrofit(): Retrofit {
         return Retrofit.Builder()
             .baseUrl(URL_BASE)

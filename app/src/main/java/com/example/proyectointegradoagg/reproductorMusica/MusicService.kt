@@ -1,4 +1,4 @@
-package com.example.proyectointegradoagg.reproductorVideo
+package com.example.proyectointegradoagg.reproductorMusica
 
 import android.app.Service
 import android.content.Intent

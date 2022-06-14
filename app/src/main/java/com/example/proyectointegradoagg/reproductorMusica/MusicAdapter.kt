@@ -1,19 +1,16 @@
-package com.example.proyectointegradoagg.reproductorVideo
+package com.example.proyectointegradoagg.reproductorMusica
 
 import android.content.Context
 import android.content.Intent
 
 import android.view.LayoutInflater
-import android.view.View
 import android.view.ViewGroup
-import android.widget.Toast
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
 import com.example.proyectointegradoagg.R
 import com.example.proyectointegradoagg.databinding.MusicViewBinding
-import com.example.proyectointegradoagg.maps.MapsActivity
 
 class MusicAdapter(private val context: Context, private val musicList: ArrayList<Music>) : RecyclerView.Adapter<MusicAdapter.MyHolder>() {
     class MyHolder(binding: MusicViewBinding) : RecyclerView.ViewHolder(binding.root){

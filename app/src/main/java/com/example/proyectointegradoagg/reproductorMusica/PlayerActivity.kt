@@ -1,4 +1,4 @@
-package com.example.proyectointegradoagg.reproductorVideo
+package com.example.proyectointegradoagg.reproductorMusica
 
 import android.content.ComponentName
 import android.content.Intent
@@ -40,8 +40,8 @@ class PlayerActivity : AppCompatActivity(), ServiceConnection {
     }
 
     private fun setListeners() {
-        binding.anteriorBtn.setOnClickListener {
-            finish()
+        binding.backBtn.setOnClickListener {
+            onBackPressed()
         }
         binding.playPauseButton.setOnClickListener {
             if(isReproduciendo) pauseMusica()
@@ -69,7 +69,7 @@ class PlayerActivity : AppCompatActivity(), ServiceConnection {
         when(intent.getStringExtra("class")){
             "MusicAdapter" ->{
                 musicListPA = ArrayList()
-                musicListPA.addAll(ReproductorVideoActivity.MusicListMA)
+                musicListPA.addAll(ReproductorMusicaActivity.MusicListMA)
                 setLayout()
 
             }

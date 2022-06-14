@@ -23,10 +23,6 @@ class PixabayAdapter(private var lista: List<PixaGson>) : RecyclerView.Adapter<P
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val item = lista[position]
-        holder.binding.tvAutor.text = item.user.toString()
-        holder.binding.tvLikes.text = item.likes.toString()
-        holder.binding.tvDescargas.text = item.descargas.toString()
-        holder.binding.tvVisitas.text = item.visitas.toString()
 
         Picasso.get().load(item.imagen)
             .resize(170,150)

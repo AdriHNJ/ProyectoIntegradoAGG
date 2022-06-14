@@ -5,7 +5,6 @@ import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Toast
 
 import androidx.viewpager.widget.PagerAdapter
 
@@ -13,8 +12,7 @@ import com.example.proyectointegradoagg.R
 import com.example.proyectointegradoagg.buscadorImagenes.PixabayActivity
 import com.example.proyectointegradoagg.lectorQR.ScannerActivity
 import com.example.proyectointegradoagg.maps.MapsActivity
-import com.example.proyectointegradoagg.reproductorVideo.PlayerActivity
-import com.example.proyectointegradoagg.reproductorVideo.ReproductorVideoActivity
+import com.example.proyectointegradoagg.reproductorMusica.ReproductorMusicaActivity
 
 
 import kotlinx.android.synthetic.main.card_item.view.*
@@ -42,7 +40,7 @@ class Adapter(private val context: Context, private val myModelArrayList: ArrayL
 
         view.imagenIv.setImageResource(imagen)
         view.titleTv.text = titulo
-        view.descripcionTv.text = descripcion
+        view.descripcionTv1.text = descripcion
 
         view.setOnClickListener{
             if (titulo=="Lector QR"){
@@ -52,7 +50,7 @@ class Adapter(private val context: Context, private val myModelArrayList: ArrayL
             if (titulo=="Juegos"){
             } else
             if (titulo=="Reproductor Musica"){
-                val i = Intent(view.context, ReproductorVideoActivity::class.java)
+                val i = Intent(view.context, ReproductorMusicaActivity::class.java)
                 context.startActivity(i)
             } else
             if (titulo=="Mapas"){

@@ -1,34 +1,28 @@
-package com.example.proyectointegradoagg.reproductorVideo
+package com.example.proyectointegradoagg.reproductorMusica
 
 
 import android.annotation.SuppressLint
-import android.app.Activity
-import android.content.Intent
 import android.content.pm.PackageManager
-import android.database.Cursor
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.provider.MediaStore
-import android.widget.LinearLayout
-import android.widget.MediaController
 import android.widget.Toast
 import androidx.core.app.ActivityCompat
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.proyectointegradoagg.databinding.ActivityReproductorVideoBinding
-import kotlinx.android.synthetic.main.activity_reproductor_video.*
+import com.example.proyectointegradoagg.databinding.ActivityReproductorMusicaBinding
 import java.io.File
 
 
-class ReproductorVideoActivity : AppCompatActivity() {
-    lateinit var binding: ActivityReproductorVideoBinding
+class ReproductorMusicaActivity : AppCompatActivity() {
+    lateinit var binding: ActivityReproductorMusicaBinding
     private lateinit var musicAdapter: MusicAdapter
 
     companion object{
         var MusicListMA : ArrayList<Music> = ArrayList()
     }
     override fun onCreate(savedInstanceState: Bundle?) {
-        binding = ActivityReproductorVideoBinding.inflate(layoutInflater)
+        binding = ActivityReproductorMusicaBinding.inflate(layoutInflater)
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
         requesRuntimePermission()
