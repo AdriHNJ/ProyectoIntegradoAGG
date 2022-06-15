@@ -13,3 +13,7 @@ build
 .externalNativeBuild
 .cxx
 local.properties
+app/build/intermediates/project_dex_archive/debug/out/com/example/proyectointegradoagg/Prefs.dex
+*.dex
+*.dex
+*.dex
