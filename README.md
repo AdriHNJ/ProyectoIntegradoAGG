@@ -16,3 +16,5 @@ La carpeta importante es la de app y si seguimos la ruta ProyectoIntegradoAGG/ap
 Cada una de estas carpetas contiene todos los archivos .kt que conforman el proyecto, por ejemplo, buscadorImagenes contendrá los archivos que se han codificado para realizar el buscador de Imagenes.
 
 Por otro lado en la carpeta ProyectoIntegradoAGG/app/src/main/res/ tendremos todos los archivos de diseño tanto las imágenes como los layouts.
+
+Predomina el lenguaje HTML porque hay muchos ficheros generados por el DOKKA 
